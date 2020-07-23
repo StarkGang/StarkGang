@@ -4,12 +4,12 @@
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DStarkgang&longCache=true)](https://github.com/Starkgang)
 
-Telegram : [StarkXD@Telegram](t.me/starkxD)
+Telegram : [StarkXD@Telegram](https://t.me/starkxD)
 
-Team : [StarkGang@Telegram](t.me/Starkgang) 
+Team : [StarkGang@Telegram](https://t.me/Starkgang) 
 
 Team : [Starkgang@Github](https://github.com/StarkGang)
 
-Read My Info : [StarkxDInfo](t.me/StarkxDInfo)
+Read My Info : [StarkxDInfo](https://t.me/StarkxDInfo)
 
 <img align='centre' src='https://telegra.ph/file/db0b776a5934a9b9aed48.jpg' width='500"'>
