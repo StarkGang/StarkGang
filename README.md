@@ -6,7 +6,7 @@
 
 𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈 𝙄𝘿 ➪ [StarkXD@Telegram](https://t.me/starkxD)
 
-𝙏𝙀𝘼𝙈@𝙂𝙄𝙏𝙃𝙐𝘽 ➪ [StarkGang@Telegram](https://t.me/Starkgang) 
+𝙏𝙀𝘼𝙈@𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈 ➪ [StarkGang@Telegram](https://t.me/Starkgang) 
 
 𝙏𝙀𝘼𝙈@𝙂𝙄𝙏𝙃𝙐𝘽 ➪ [Starkgang@Github](https://github.com/StarkGang)
 
