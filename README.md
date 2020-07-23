@@ -10,6 +10,10 @@ Team : [StarkGang@Telegram](https://t.me/Starkgang)
 
 Team : [Starkgang@Github](https://github.com/StarkGang)
 
+Team : [Starkgang@Twitter](https://twitter.com/stark_gang)
+
 Read My Info : [StarkxDInfo](https://t.me/StarkxDInfo)
+
+
 
 <img align='centre' src='https://telegra.ph/file/db0b776a5934a9b9aed48.jpg' width='500"'>
