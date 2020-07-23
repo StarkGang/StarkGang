@@ -10,7 +10,7 @@
 
 *Team@Github* : [Starkgang@Github](https://github.com/StarkGang)
 
-*Team@Twitter* : [Starkgang@Twitter](https://twitter.com/stark_gang)
+*Team@Twitter* : [Stark_gang@Twitter](https://twitter.com/stark_gang)
 
 Read My Info : [StarkxDInfo](https://t.me/StarkxDInfo)
 
