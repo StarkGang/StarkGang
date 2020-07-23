@@ -4,15 +4,15 @@
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DStarkgang&longCache=true)](https://github.com/Starkgang)
 
-*𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈 𝙄𝘿*: [StarkXD@Telegram](https://t.me/starkxD)
+𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈 𝙄𝘿 ➪ [StarkXD@Telegram](https://t.me/starkxD)
 
-*𝙏𝙀𝘼𝙈@𝙂𝙄𝙏𝙃𝙐𝘽* : [StarkGang@Telegram](https://t.me/Starkgang) 
+𝙏𝙀𝘼𝙈@𝙂𝙄𝙏𝙃𝙐𝘽 ➪ [StarkGang@Telegram](https://t.me/Starkgang) 
 
-*𝙏𝙀𝘼𝙈@𝙂𝙄𝙏𝙃𝙐𝘽* : [Starkgang@Github](https://github.com/StarkGang)
+𝙏𝙀𝘼𝙈@𝙂𝙄𝙏𝙃𝙐𝘽 ➪ [Starkgang@Github](https://github.com/StarkGang)
 
-*𝙏𝙀𝘼𝙈@𝙏𝙒𝙄𝙏𝙏𝙀𝙍* : [Stark_gang@Twitter](https://twitter.com/stark_gang)
+𝙏𝙀𝘼𝙈@𝙏𝙒𝙄𝙏𝙏𝙀𝙍 ➪  [Stark_gang@Twitter](https://twitter.com/stark_gang)
 
-𝙍𝙀𝘼𝘿 𝙈𝙔 𝙄𝙉𝙁𝙊 : [StarkxDInfo](https://t.me/StarkxDInfo)
+𝙍𝙀𝘼𝘿 𝙈𝙔 𝙄𝙉𝙁𝙊 ➪ [StarkxDInfo](https://t.me/StarkxDInfo)
 
 
 
