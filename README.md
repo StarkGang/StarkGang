@@ -1,5 +1,4 @@
-<img align='left' src='https://64.media.tumblr.com/a5fe255695dea8a5b8705d1f2009ca55/tumblr_n5hho4IUAe1r922azo1_r1_500.gif' width='500"'>
-I am Part Of <img align='left' src='https://telegra.ph/file/db0b776a5934a9b9aed48.jpg' width='200"'>
+<img align='centre' src='https://64.media.tumblr.com/a5fe255695dea8a5b8705d1f2009ca55/tumblr_n5hho4IUAe1r922azo1_r1_500.gif' width='500"'>
 
 [![StarkGang github stats](https://github-readme-stats.vercel.app/api?username=StarkGang)](https://github.com/Starkgang)
 
@@ -7,3 +6,4 @@ I am Part Of <img align='left' src='https://telegra.ph/file/db0b776a5934a9b9aed4
 
 Telegram : [@StarkXD](t.me/starkxD)
 
+I am Part Of <img align='centre' src='https://telegra.ph/file/db0b776a5934a9b9aed48.jpg' width='500"'>
