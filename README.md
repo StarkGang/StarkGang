@@ -7,7 +7,7 @@
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 # MY STATUS.
-[![StarkGang github stats](https://github-readme-stats.vercel.app/api?username=StarkGang)](https://github.com/Starkgang)
+![Starkgang github stats](https://github-readme-stats.vercel.app/api?username=starkgang&show_icons=true&theme=midnight-purple)
 - ![Profile views](https://gpvc.arturio.dev/Starkgang)
 - [![GitHub followers](https://img.shields.io/github/followers/starkgang.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Starkgang?tab=followers)
 # MOST USED LANGUAGE
