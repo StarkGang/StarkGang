@@ -19,4 +19,7 @@
 
 
 
-<img align='centre' src='https://telegra.ph/file/db0b776a5934a9b9aed48.jpg' width='500"'>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
+</a>    
