@@ -8,8 +8,8 @@
 
 # MY STATUS.
 [![StarkGang github stats](https://github-readme-stats.vercel.app/api?username=StarkGang)](https://github.com/Starkgang)
-![Profile views](https://gpvc.arturio.dev/Starkgang)
-[![GitHub followers](https://img.shields.io/github/followers/starkgang.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Starkgang?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/Starkgang)
+- [![GitHub followers](https://img.shields.io/github/followers/starkgang.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Starkgang?tab=followers)
 # MOST USED LANGUAGE
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
