@@ -8,8 +8,8 @@
 - ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 - ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-- <img align='centre' src='https://github.com/LonamiWebs/Telethon/blob/master/logo.svg' width='20"'>
-- <img align='centre' src='https://i.imgur.com/BOgY9ai.png' width='20"'>
+- <img align='centre' src='https://github.com/LonamiWebs/Telethon/blob/master/logo.svg' width='50"'>
+- <img align='centre' src='https://i.imgur.com/BOgY9ai.png' width='50"'>
 
 # MY STATUS.
 
