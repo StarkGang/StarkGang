@@ -8,6 +8,7 @@
 - ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 - ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+- ![Telethon](https://github.com/LonamiWebs/Telethon/blob/master/logo.svg)&nbsp;&nbsp;
 
 # MY STATUS.
 
