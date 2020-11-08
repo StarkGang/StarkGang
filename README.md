@@ -22,12 +22,12 @@
 
 # CONNECT ME.
 
-⚝ [![telegram](https://aleen42.github.io/badges/src/telegram.svg)](https://t.me/serenassistantbot)
+* [![telegram](https://aleen42.github.io/badges/src/telegram.svg)](https://t.me/serenassistantbot)
 
-⚝ [![Github](https://aleen42.github.io/badges/src/github.svg)](https://github.com/StarkGang)
+* [![Github](https://aleen42.github.io/badges/src/github.svg)](https://github.com/StarkGang)
 
-⚝ [![StackOverFlow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/14344037/starkgang)
+* [![StackOverFlow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/14344037/starkgang)
 
-⚝ [![FaceBook](https://aleen42.github.io/badges/src/facebook.svg)](https://www.facebook.com/StarkgangInc)
+* [![FaceBook](https://aleen42.github.io/badges/src/facebook.svg)](https://www.facebook.com/StarkgangInc)
 
-⚝ [![Twitter](https://aleen42.github.io/badges/src/twitter.svg)](https://twitter.com/StarkgangInc/)
+* [![Twitter](https://aleen42.github.io/badges/src/twitter.svg)](https://twitter.com/StarkgangInc/)
