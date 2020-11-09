@@ -3,11 +3,11 @@
 
 # MY TOOLS.
 
-- ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-- ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-- ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-- ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-- ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+- ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)&nbsp;&nbsp;
+- ![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5)&nbsp;&nbsp;
+- ![MySQL](https://img.shields.io/badge/MYSQL-ffffff?style=for-the-badge&logo=mysql)&nbsp;&nbsp;
+- ![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git)&nbsp;&nbsp;
+- ![GitHub](https://img.shields.io/badge/GitHUb-ffffff?style=for-the-badge&logo=github)&nbsp;&nbsp;
 - <img align='centre' src='https://github.com/LonamiWebs/Telethon/blob/master/logo.svg' width='50"'>
 - <img align='centre' src='https://i.imgur.com/BOgY9ai.png' width='50"'>
 
