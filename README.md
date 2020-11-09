@@ -5,9 +5,9 @@
 
 - ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)&nbsp;&nbsp;
 - ![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5)&nbsp;&nbsp;
-- ![MySQL](https://img.shields.io/badge/MYSQL-ffffff?style=for-the-badge&logo=mysql)&nbsp;&nbsp;
+- ![MySQL](https://img.shields.io/badge/MYSQL-E52E06?style=for-the-badge&logo=mysql)&nbsp;&nbsp;
 - ![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git)&nbsp;&nbsp;
-- ![GitHub](https://img.shields.io/badge/GitHUb-ffffff?style=for-the-badge&logo=github)&nbsp;&nbsp;
+- ![GitHub](https://img.shields.io/badge/GitHUb-E52E06?style=for-the-badge&logo=github)&nbsp;&nbsp;
 - ![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git)&nbsp;&nbsp;
 - ![Pycharm](https://img.shields.io/badge/PYcharm-ffffff?style=for-the-badge&logo=pycharm)&nbsp;&nbsp;
 - ![VCS](https://img.shields.io/badge/visual%20studio%20code-E52E06?style=for-the-badge&logo=visual-studio-code)&nbsp;&nbsp;
